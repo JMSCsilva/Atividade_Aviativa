@@ -12,4 +12,5 @@ INSERT INTO employee_data
   (Employee_Name, Title)
 VALUES
   ('José Marcos', 'Operador_cadastro'),
-  ('Jeffesom', 'Medico');
+  ('Jeffesom', 'Medico')
+  ('Josi','medica_plantonista');
